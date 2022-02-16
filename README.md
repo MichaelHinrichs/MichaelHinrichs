@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <img src="https://github-readme-stats.vercel.app/api?username=MichaelHinrichs&count_private=true&show_icons=true&theme=dark" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelHinrichs&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MichaelHinrichs&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **MichaelHinrichs/MichaelHinrichs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
