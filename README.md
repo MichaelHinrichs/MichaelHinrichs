@@ -10,6 +10,8 @@
 </a>
 <img alt="listening to" src="https://dev.discordprofiles.me/badge/spotify/543091598746189845" />
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=MichaelHinrichs" />
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/MichaelHinrichs" />
+
 <!--
 **MichaelHinrichs/MichaelHinrichs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
