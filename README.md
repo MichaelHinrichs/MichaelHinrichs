@@ -10,6 +10,9 @@
 <img alt="listening to" src="https://dev.discordprofiles.me/badge/spotify/543091598746189845" />
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=MichaelHinrichs" />
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/MichaelHinrichs" />
+<a href='https://github.com/sponsors/MichaelHinrichs'>
+  <img alt="Sponsor" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4" />
+</a>
 
 <!--
 **MichaelHinrichs/MichaelHinrichs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
