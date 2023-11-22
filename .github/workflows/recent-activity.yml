@@ -1,6 +1,10 @@
 name: Update README
 
 on:
+  workflow_call:
+    secrets:
+      access-token:
+        description: 'Apperently i need this for some reason.'
   schedule:
     - cron: '*/30 * * * *' # Update every 30 minutes
   workflow_dispatch:
@@ -12,3 +16,5 @@ jobs:
     steps:
       - name: Recent GitHub Activity - Profile Readme
         uses: Readme-Workflows/recent-activity@v2.4.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
