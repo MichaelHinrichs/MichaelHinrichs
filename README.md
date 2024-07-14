@@ -2,6 +2,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=MichaelHinrichs&count_private=true&show_icons=true&theme=dark" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelHinrichs&theme=dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MichaelHinrichs&theme=dark" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MichaelHinrichs&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MichaelHinrichs&theme=dark&utcOffset=8)
 <img src="https://github-profile-trophy.vercel.app/?username=MichaelHinrichs&theme=dark" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelHinrichs" />
 </br>
