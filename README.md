@@ -4,9 +4,8 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MichaelHinrichs&theme=dark" />
 <img src="https://github-profile-trophy.vercel.app/?username=MichaelHinrichs&theme=dark" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelHinrichs" />
-<a href='https://discord.com/users/543091598746189845'>
-  <img alt="discord status" src="https://dev.discordprofiles.me/badge/status/543091598746189845" />
-</a>
+</br>
+<a href='https://discord.com/users/543091598746189845'><img alt="discord status" src="https://dev.discordprofiles.me/badge/status/543091598746189845" /></a>
 <img alt="listening to" src="https://dev.discordprofiles.me/badge/spotify/543091598746189845" />
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=MichaelHinrichs" />
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/MichaelHinrichs" />
