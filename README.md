@@ -5,6 +5,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MichaelHinrichs&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MichaelHinrichs&theme=dark&utcOffset=8)
 <img src="https://github-profile-trophy.vercel.app/?username=MichaelHinrichs&theme=dark" />
+</br>
+#### My Skills
+![My Skills](https://skillicons.dev/icons?i=cs,cypress,discord,gamemakerstudio,github,githubactions,gmail,html,md,sketchup,svg,unity,unreal,terraform,visualstudio,vscode,windows)
+</br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelHinrichs" />
 </br>
 <a href='https://discord.com/users/543091598746189845'><img alt="discord status" src="https://dev.discordprofiles.me/badge/status/543091598746189845" /></a>
