@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on testing github actions.
+- 🌱 I’m currently learning Go and Godot.
+- 👯 I’m looking to collaborate on API integrations.
+- 🤔 I’m looking for help with allcontributers.
+- 💬 Ask me about Nintendo asset ripping.
+- 📫 How to reach me: mchinrichs@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: The archana is the means by which all is revealed.
+
 <img src="https://github-readme-stats.vercel.app/api?username=MichaelHinrichs&count_private=true&show_icons=true&theme=dark" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelHinrichs&theme=dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MichaelHinrichs&theme=dark" />
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MichaelHinrichs&theme=dark)
@@ -19,18 +28,3 @@
 <a href='https://github.com/sponsors/MichaelHinrichs'>
   <img alt="Sponsor" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4" />
 </a>
-
-<!--
-**MichaelHinrichs/MichaelHinrichs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
