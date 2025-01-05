@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on testing github actions.
-- 🌱 I’m currently learning Go.
+- 🌱 I’m currently learning Unity.
 - 👯 I’m looking to collaborate on API integrations.
 - 🤔 I’m looking for help with allcontributers.
 - 💬 Ask me about Nintendo asset ripping.
