@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on testing github actions.
 - 🌱 I’m currently learning Gleam.
 - 👯 I’m looking to collaborate on API integrations.
-- 🤔 I’m looking for help with allcontributers.
+- 🤔 I’m looking for help with allcontributers, in my GitHub-Actions repo.
 - 💬 Ask me about Nintendo asset ripping.
 - 📫 How to reach me: mchinrichs@gmail.com
 - 😄 Pronouns: He/Him
