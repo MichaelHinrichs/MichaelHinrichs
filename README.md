@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on testing github actions.
+- 🔭 I’m currently working on skill icons.
 - 🌱 I’m currently learning CSS.
 - 👯 I’m looking to collaborate on API integrations.
 - 🤔 I’m looking for help with [allcontributers, in my GitHub-Actions repo](https://github.com/MichaelHinrichs/GitHub-Actions/issues/13).
