@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Google Blockly.
-- 🌱 I’m currently learning CSS.
+- 🔭 I’m currently working on a Godot project.
+- 🌱 I’m currently learning GDScript.
 - 👯 I’m looking to collaborate on API integrations.
 - 🤔 I’m looking for help with [allcontributers, in my GitHub-Actions repo](https://github.com/MichaelHinrichs/GitHub-Actions/issues/13).
 - 💬 Ask me about Nintendo asset ripping.
