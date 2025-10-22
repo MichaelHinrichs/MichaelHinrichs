@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Godot project.
+- 🔭 I’m currently working on a Twine story format.
 - 🌱 I’m currently learning GDScript.
 - 👯 I’m looking to collaborate on API integrations.
 - 🤔 I’m looking for help with [allcontributers, in my GitHub-Actions repo](https://github.com/MichaelHinrichs/GitHub-Actions/issues/13).
